@@ -1,3 +1,4 @@
+## Multi-Factor-Authenticated-ECC-Based-Image-Encryption-Steganography-Platform
 An advanced, highly secure, and lightweight image protection system. This platform combines Elliptic Curve Cryptography (ECC) with Least Significant Bit (LSB) Steganography to encrypt sensitive target images (such as medical X-rays) and embed them invisibly within standard carrier images. The application features a real-time security analytics dashboard, Multi-Factor Authentication (MFA), and secure automated audit logging.
 📌Features:
 1. Multi-Factor Authentication (MFA)Secure administrative sign-in portal requiring username, password, and Time-Based One-Time Password (TOTP) verification.  Prevent unauthorized encryption, decryption, or log tampering at the entry point.  

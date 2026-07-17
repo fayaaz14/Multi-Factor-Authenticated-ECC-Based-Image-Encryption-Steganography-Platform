@@ -29,3 +29,4 @@ Evaluates the mathematical robustness of the encryption routine, measuring MSE, 
  ->Cryptographic Core: TinyEC (utilizing the brainpoolP256r1 elliptic curve), PyCryptodome 
  ->Image Processing: Pillow (PIL - Python Imaging Library), NumPy 
  ->MFA Integration: PyOTP (Time-based OTP generation) 
+ 
